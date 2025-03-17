@@ -1,0 +1,22 @@
+HOW TO RUN KODJOBS ON ANOTHER LAPTOP
+==============================
+
+1. Install Node.js if not already installed (download from https://nodejs.org)
+
+2. Open command prompt/terminal
+
+3. Navigate to the kodjobs folder:
+   cd path/to/kodjobs
+
+4. Install dependencies:
+   npm install
+
+5. Start the application:
+   npm start
+
+6. Open browser and go to:
+   http://localhost:3000
+
+Admin login:
+- Email: admin@kodjobs.com
+- Password: admin123 
